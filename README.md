@@ -2,6 +2,9 @@
 
 Welcome to my portfolio repository! This project showcases my skills, projects, and contact information to provide an overview of my work in web development.
 
+## Portfolio Link
+https://kamya123.github.io/portfolio/
+
 ## Table of Contents
 
 - [About](#about)
